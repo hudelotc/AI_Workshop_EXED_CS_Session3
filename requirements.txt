@@ -1,0 +1,4 @@
+matplotlib
+pyagrum
+pydotplus
+numpy
